@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tab h1j@ck test</title>
+  <script>
+    let redirectTimer = null;
+
+    document.addEventListener('visibilitychange', function () {
+      if (document.hidden) {
+        console.log("⏳ Tab.");
+      
+        redirectTimer = setTimeout(() => {
+          window.location.href = 'https://youtu.be/vE9O36mxQ2A';
+        }, 1500); //1.5 seconds
+      } else {
+        console.log("🛑 Cancelling.");
+        clearTimeout(redirectTimer);
+      }
+    });
+  </script>
+</head>
+<body>
+  <h1>Hello World</h1>
+</body>
+</html>
