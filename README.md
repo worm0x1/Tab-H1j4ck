@@ -1,6 +1,6 @@
 ## 👨🏻‍💻️ Tab-H1j4ck
 
-This educational project shows how **Tab Hijacking** works — a trick where attackers hijack the **original tab** after a user opens a **new one**. It silently redirects the original tab to a different page (e.g., a fake login screen or misleading content) while the user is distracted.
+This educational project shows how **Tab H1j@cking** works — a trick where attackers hijack the **original tab** after a user opens a **new one**. It silently redirects the original tab to a different page (e.g., a fake login screen or misleading content) while the user is distracted.
 
 ---
 
@@ -19,7 +19,7 @@ This educational project shows how **Tab Hijacking** works — a trick where att
 
 ### 🔁 Example JavaScript Code
 
-You can test it in your own project:
+You can test it in y0ur 0wn pr0ject:
 
 ```js
 let redirectTimer = null;
