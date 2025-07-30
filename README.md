@@ -46,4 +46,3 @@ document.addEventListener('visibilitychange', function () {
 ---
 
 > **⚠️ Warning:** This project is for **educational purposes only**. Never use it for malicious activities. Always obtain **explicit consent** before conducting any security tests.
-```
