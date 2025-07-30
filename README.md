@@ -41,7 +41,7 @@ document.addEventListener('visibilitychange', function () {
 
 **🎥 Educational Demo**
 
-> https://youtube.com/shorts/nrfAEaHKOO4
+> https://youtube.com/shorts/fQO1w-J7Wbo
 
 ---
 
