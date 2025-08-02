@@ -13,7 +13,7 @@ This educational project shows how **Tab H1j@cking** works — a trick where att
 
 **🌐 Free Hosting & Subdomain**
 
-> https://youtu.be/TV8CI3w6PlE
+>http://t.me/mlrumon
 
 ---
 
@@ -28,7 +28,7 @@ document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     console.log("⏳ Tab.");
     redirectTimer = setTimeout(() => {
-      window.location.href = 'https://youtu.be/vE9O36mxQ2A'; // Replace with phishing URL
+      window.location.href ='http://t.me/mlrumon'; // Replace with phishing URL
     }, 1500); // Redirects after 1.5s
   } else {
     console.log("🛑 Tab is active.");
@@ -41,7 +41,7 @@ document.addEventListener('visibilitychange', function () {
 
 **🎥 Educational Demo**
 
-> https://youtube.com/shorts/fQO1w-J7Wbo
+> http://t.me/mlrumon
 
 ---
 
